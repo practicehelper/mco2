@@ -1,4 +1,3 @@
-# mco2
 your-repo/
 │
 ├── index.html
